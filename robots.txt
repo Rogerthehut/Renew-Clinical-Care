@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://renew-clinical-care.medjaybayek.chatgpt.site/sitemap.xml
+
